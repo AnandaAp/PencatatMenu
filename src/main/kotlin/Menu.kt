@@ -1,4 +1,4 @@
-class Menu (){
+class Menu{
     var menu : String = ""
         get() = field
         set(value) {
